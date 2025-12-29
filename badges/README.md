@@ -4,68 +4,61 @@ Verified skill badges and micro-certifications from industry-recognized platform
 
 ---
 
+## 📊 Overview
+
+Professional badges demonstrate verified competency in specific technical skills through hands-on assessments and practical exercises. All badges listed here are publicly verifiable and recognized by employers worldwide.
+
+**Total Badges:** 2  
+**Platforms:** MongoDB University (Credly)
+
+---
+
 ## 🍃 MongoDB University Badges
 
-Professional badges earned through MongoDB University and verified via Credly.
+Professional badges focused on MongoDB database operations, performance, and monitoring.
 
-<div align="left">
-  <img src="./mongodb/mongodb-badges/monitoring-mongodb.png" alt="Monitoring MongoDB" width="150"/>
-  <img src="./mongodb/mongodb-badges/optimizing-mongodb-performance.png" alt="Optimizing Performance" width="150"/>
-</div>
+**Focus Areas:**
+- Database Performance Monitoring
+- Performance Optimization & Tuning
+- Query Analysis & Diagnostics
+
+**Badges Earned:** 2  
+**Issued:** November 2025  
+**Platform:** MongoDB University via Credly
+
+[📋 View MongoDB badges details](./mongodb/)
 
 ---
 
-### Monitoring MongoDB with Built-in Tools
-**Issued:** November 2025  
-**Platform:** MongoDB University via Credly  
-**Badge ID:** d3fac868-f6a4-4679-a8b8-3677577e7f09
+## 🎯 Skills Covered
 
-**Skills Validated:**
-- Monitoring database performance using built-in tools
-- Understanding and interpreting MongoDB metrics
-- Using mongostat and mongotop commands
-- Analyzing slow queries with profiler
-- Database health monitoring and diagnostics
+### Performance & Monitoring
+- Real-time database monitoring
+- Performance metrics interpretation
+- Built-in monitoring tools (mongostat, mongotop)
+- Slow query analysis and profiling
 
-**What This Badge Represents:**  
-Demonstrates proficiency in monitoring MongoDB deployments using native monitoring tools, interpreting performance metrics, and identifying potential issues before they impact applications.
-
-[🔗 Verify badge on Credly](https://www.credly.com/earner/earned/badge/d3fac868-f6a4-4679-a8b8-3677577e7f09)
-
----
-
-### Optimizing MongoDB Performance with Tuning Tools
-**Issued:** November 2025  
-**Platform:** MongoDB University via Credly  
-**Badge ID:** d871d40a-1f51-45f7-bca2-6e9e8def62aa
-
-**Skills Validated:**
-- Performance tuning strategies and methodologies
-- Index optimization techniques and best practices
-- Query plan analysis with explain()
-- Using MongoDB performance tuning tools
-- Identifying and resolving performance bottlenecks
+### Optimization & Tuning
+- Index optimization strategies
+- Query performance analysis
 - Resource utilization optimization
-
-**What This Badge Represents:**  
-Demonstrates expertise in optimizing MongoDB database performance through proper indexing strategies, query optimization, and effective use of performance analysis tools.
-
-[🔗 Verify badge on Credly](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
+- Performance bottleneck identification
 
 ---
 
-## 📊 Badge Summary
+## 🔍 Badge Verification
 
-- **Total Badges:** 2
-- **Platform:** MongoDB University (Credly)
-- **Focus Area:** MongoDB Performance & Monitoring
-- **Verification:** All badges are publicly verifiable via Credly
+All badges are publicly verifiable through Credly platform. Each badge includes:
+- Unique badge ID
+- Issuing organization verification
+- Skills validation criteria
+- Issue date and expiration (if applicable)
 
 ---
 
-## 🔍 About These Badges
+## 📈 Future Badges
 
-These badges are awarded by MongoDB University after completing specific skill assessments and practical exercises. Each badge represents verified competency in specific MongoDB operational tasks and is recognized by employers worldwide as proof of hands-on MongoDB expertise.
+This section will be updated as new professional badges are earned across various database technologies and platforms.
 
 ---
 
