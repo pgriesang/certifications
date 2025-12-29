@@ -52,21 +52,11 @@ Complete MongoDB training covering NoSQL fundamentals, data validation, data mod
 
 ---
 
-### 🏆 MongoDB Skill Badges (Credly)
-
-**Monitoring MongoDB with Built-in Tools** - November/2025  
-[🔗 Verify badge](https://www.credly.com/earner/earned/badge/d3fac868-f6a4-4679-a8b8-3677577e7f09)
-
-**Optimizing MongoDB Performance with Tuning Tools** - November/2025  
-[🔗 Verify badge](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
-
----
 
 ## 📊 Summary
 
 - **Total Programs:** 4 complete training paths
 - **Total Hours:** 223 hours
 - **Technologies:** SQL Server, PostgreSQL, SQLite, MongoDB
-- **Skill Badges:** 2 MongoDB certifications
 
 [← Back to main](../)
