@@ -85,7 +85,7 @@ Formação completa em MongoDB:
 - **Monitoring MongoDB with Built-in Tools** - Novembro/2025
   - [Verificar badge](https://www.credly.com/earner/earned/badge/d3fac868-f6a4-4679-a8b8-3677577e7f09)
 - **Optimizing MongoDB Performance with Tuning Tools** - Novembro/2025
-  - [Verificar badge](https://www.credly.com/badges/seu-badge-id)
+  - [Verificar badge](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
 
 ---
 
