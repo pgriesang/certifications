@@ -9,8 +9,8 @@ Verified skill badges and micro-certifications from industry-recognized platform
 Professional badges earned through MongoDB University and verified via Credly.
 
 <div align="left">
-  <img src="./mongodb/monitoring-mongodb.png" alt="Monitoring MongoDB" width="150"/>
-  <img src="./mongodb/optimizing-mongodb-performance.png" alt="Optimizing Performance" width="150"/>
+  <img src="./mongodb/mongodb-badges/monitoring-mongodb.png" alt="Monitoring MongoDB" width="150"/>
+  <img src="./mongodb/mongodb-badges/optimizing-mongodb-performance.png" alt="Optimizing Performance" width="150"/>
 </div>
 
 ---
