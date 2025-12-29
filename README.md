@@ -14,8 +14,9 @@ Complete professional training programs and learning paths:
 ### [Courses](./courses/)
 Detailed breakdown of individual courses and modules within each training program.
 
-### 🏆 Skill Badges
-- MongoDB Credly Badges (Performance & Monitoring)
+### [Badges](./badges/)
+Professional skill badges and micro-certifications:
+- 🏆 MongoDB Credly Badges (Performance & Monitoring)
 
 ---
 
