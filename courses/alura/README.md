@@ -136,36 +136,4 @@ Individual courses and modules within each training program.
 
 ---
 
-## 🏆 MongoDB Skill Badges
-
-### Monitoring MongoDB with Built-in Tools
-**Issued:** November 2025  
-**Platform:** MongoDB University
-
-**Skills Validated:**
-- Monitoring database performance using built-in tools
-- Understanding and interpreting MongoDB metrics
-- Using mongostat and mongotop
-- Analyzing slow queries with profiler
-- Database health monitoring
-
-[🔗 Verify badge](https://www.credly.com/earner/earned/badge/d3fac868-f6a4-4679-a8b8-3677577e7f09)
-
----
-
-### Optimizing MongoDB Performance with Tuning Tools
-**Issued:** November 2025  
-**Platform:** MongoDB University
-
-**Skills Validated:**
-- Performance tuning strategies
-- Index optimization techniques
-- Query plan analysis with explain()
-- Using MongoDB performance tuning tools
-- Identifying and resolving performance bottlenecks
-
-[🔗 Verify badge](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
-
----
-
 [← Back to Training Programs](../training-programs/) | [← Back to main](../)
