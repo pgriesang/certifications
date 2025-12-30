@@ -12,31 +12,31 @@ Individual courses and modules within each training program.
 
 ### Courses:
 
-#### 1. Microsoft SQL Server 2022: conhecendo SQL
+#### 1. Microsoft SQL Server 2022: getting to know SQL
 **Duration:** 8 hours | **Period:** Dec 6-8, 2025  
 **Topics:** SQL fundamentals, basic queries, database structure, SELECT statements, WHERE clauses, basic filtering.
 
-#### 2. Microsoft SQL Server 2022: consultas avançadas
+#### 2. Microsoft SQL Server 2022: Advanced Queries
 **Duration:** 18 hours | **Period:** Dec 8-14, 2025  
 **Topics:** Complex queries, subqueries, advanced JOINs, set operations, window functions, query optimization techniques.
 
-#### 3. Microsoft SQL Server 2022: manipulando dados
+#### 3. Microsoft SQL Server 2022: Handling Data
 **Duration:** 12 hours | **Period:** Dec 14-15, 2025  
 **Topics:** INSERT, UPDATE, DELETE operations, data modification, transaction management, data integrity.
 
-#### 4. Microsoft SQL Server 2022: conhecendo o T-SQL
+#### 4. Microsoft SQL Server 2022: getting to know T-SQL
 **Duration:** 12 hours | **Period:** Dec 15-19, 2025  
 **Topics:** T-SQL syntax, variables, control flow, cursors, error handling, batch processing.
 
-#### 5. Microsoft SQL Server 2022: aprofundando em procedures e funções
+#### 5. Microsoft SQL Server 2022: diving deeper into procedures and functions
 **Duration:** 8 hours | **Period:** Dec 19-20, 2025  
 **Topics:** Stored procedures, user-defined functions (UDF), scalar and table-valued functions, advanced programming.
 
-#### 6. Microsoft SQL Server 2022: administrando o banco de dados
+#### 6. Microsoft SQL Server 2022: Administering the Database
 **Duration:** 10 hours | **Period:** Dec 20-23, 2025  
 **Topics:** Database administration, security, user management, backup strategies, recovery models, maintenance plans.
 
-#### 7. Microsoft SQL Server 2022: performance
+#### 7. Microsoft SQL Server 2022: Performance
 **Duration:** 10 hours | **Period:** Dec 23-27, 2025  
 **Topics:** Query optimization, index design, execution plans, statistics, performance monitoring, troubleshooting.
 
