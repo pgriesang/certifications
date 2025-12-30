@@ -24,7 +24,7 @@ Complete PostgreSQL training focused on administration and development including
 
 **Key Skills:** PostgreSQL administration, PL/pgSQL, triggers, transactions, performance optimization, backup and recovery.
 
-[📄 View certificate](../../files/alura/training-programs/SQL_with_PostgreSQL.pdf) | [📋 View courses](../../courses/alura/README.md#postgresql)
+[📄 View certificate](../../files/alura/training-programs/SQL_with_PostgreSQL.pdf) | [📋 View courses](../../courses/alura/README.md#sql-with-postgresql)
 
 ---
 
