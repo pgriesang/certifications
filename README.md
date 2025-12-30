@@ -23,7 +23,7 @@ Professional skill badges and micro-certifications:
 ## 🎯 Core Competencies
 
 **Relational Databases:**
-- Microsoft SQL Server 2022 (Administration, T-SQL, Performance)
+- Microsoft SQL Server (Administration, T-SQL, Performance)
 - PostgreSQL (Administration, PL/pgSQL, Optimization)
 - Advanced SQL (Joins, CTEs, Views, Transactions)
 
