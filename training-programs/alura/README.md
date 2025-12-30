@@ -24,7 +24,7 @@ Complete PostgreSQL training focused on administration and development including
 
 **Key Skills:** PostgreSQL administration, PL/pgSQL, triggers, transactions, performance optimization, backup and recovery.
 
-[📄 View certificate](../alura/formacao-postgresql.pdf) | [📋 View courses](../../courses/alura/README.md#postgresql)
+[📄 View certificate](../../files/alura/training-programs/SQL_with_PostgreSQL.pdf) | [📋 View courses](../../courses/alura/README.md#postgresql)
 
 ---
 
@@ -35,7 +35,7 @@ Solid SQL foundations with SQLite covering SQL instructions, queries, joins and 
 
 **Key Skills:** SQL fundamentals, JOINs, subqueries, views, transactions, data analysis.
 
-[📄 View certificate](../alura/formacao-conhecendo-sql.pdf) | [📋 View courses](../../courses/alura/README.md#sql-fundamentals)
+[📄 View certificate](../../files/alura/training-programs/Undertsanting_SQL.pdf) | [📋 View courses](../../courses/alura/README.md#sql-fundamentals)
 
 ---
 
@@ -48,7 +48,7 @@ Complete MongoDB training covering NoSQL fundamentals, data validation, data mod
 
 **Key Skills:** NoSQL modeling, schema validation, MongoDB queries, security, backup/restore, performance optimization, GridFS.
 
-[📄 View certificate](../alura/formacao-mongodb.pdf) | [📋 View courses](../../courses/alura/README.md#mongodb)
+[📄 View certificate](../../files/alura/training-programs/Mongodb.pdf) | [📋 View courses](../../courses/alura/README.md#mongodb)
 
 ---
 
