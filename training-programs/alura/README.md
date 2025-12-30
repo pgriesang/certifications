@@ -13,7 +13,7 @@ Complete training in administration, performance, and T-SQL development covering
 
 **Key Skills:** SQL Server administration, query optimization, stored procedures, T-SQL functions, performance tuning, CTEs.
 
-[📄 View certificate](../../files/alura/training-programs/Microsoft_SQL_Server_2022.pdf) | [📋 View courses](../../courses/alura/README.md../courses#microsoft-sql-server-2022)
+[📄 View certificate](../../files/alura/training-programs/Microsoft_SQL_Server_2022.pdf) | [📋 View courses](../../courses/alura/README.md#microsoft-sql-server-2022)
 
 ---
 
