@@ -4,6 +4,32 @@ Individual courses and modules within each training program.
 
 ---
 
+## Data Modeling
+
+**Training Program Duration:** 29 hours  
+**Platform:** Alura  
+**Completed:** December 2025 - January 2026
+
+### Courses:
+
+#### 1. Data modeling: identifying entities, attributes, relationships
+**Duration:** 10 hours | **Period:** Dec 30, 2025  
+**Topics:** Conceptual modeling fundamentals, entity-relationship diagrams (ERD), identifying entities and their attributes, defining relationships and cardinality, MER (Model Entity-Relationship) and DER (Diagram Entity-Relationship) concepts.
+
+#### 2. Data modeling: developing the logical model
+**Duration:** 10 hours | **Period:** Jan 2, 2026  
+**Topics:** Translating conceptual model to logical model, defining primary and foreign keys, representing relationships in tables, applying modeling concepts in data science projects, logical modeling in analytical tools like Power BI.
+
+#### 3. Data modeling: applying normalization
+**Duration:** 9 hours | **Period:** Jan 6, 2026  
+**Topics:** Normalization principles and objectives, First Normal Form (1NF), Second Normal Form (2NF), Third Normal Form (3NF), eliminating data redundancy, ensuring data integrity, normalization in relational and NoSQL databases.
+
+#### 4. Data modeling: building the physical model
+**Duration:** 8 hours | **Period:** Jan 7, 2026  
+**Topics:** Physical model design and implementation, translating logical to physical model, creating tables and indexes, data dictionary creation, reverse engineering, relational algebra application, optimization for different database systems.
+
+---
+
 ## Microsoft SQL Server 2022
 
 **Training Program Duration:** 79 hours  
