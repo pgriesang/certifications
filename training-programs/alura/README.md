@@ -4,6 +4,19 @@ Complete professional training programs with certifications.
 
 ---
 
+## 📐 Data Modeling
+
+### Data Modeling - Alura
+**Duration:** 29 hours | **Completed:** January/2026
+
+Complete training in data modeling covering conceptual modeling with ER diagrams, logical model development, normalization principles, and physical model implementation.
+
+**Key Skills:** Entity-relationship modeling, normalization (1NF, 2NF, 3NF), logical to physical model translation, data dictionaries, relational algebra, application in relational and NoSQL contexts.
+
+[📄 View certificate](../../files/alura/training-programs/Data_Modeling.pdf) | [📋 View courses](../../courses/alura/README.md#data-modeling)
+
+---
+
 ## 🗄️ Relational Databases
 
 ### Microsoft SQL Server 2022 - Alura
@@ -55,8 +68,8 @@ Complete MongoDB training covering NoSQL fundamentals, data validation, data mod
 
 ## 📊 Summary
 
-- **Total Programs:** 4 complete training paths
-- **Total Hours:** 223 hours
-- **Technologies:** SQL Server, PostgreSQL, SQLite, MongoDB
+- **Total Programs:** 5 complete training paths
+- **Total Hours:** 252 hours
+- **Technologies:** Data Modeling, SQL Server, PostgreSQL, SQLite, MongoDB
 
 [← Back to main](../)
