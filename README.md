@@ -8,6 +8,7 @@ Technical certifications focused on Database Administration, SQL, and NoSQL tech
 
 ### [Training Programs](./training-programs/)
 Complete professional training programs and learning paths:
+- 📐 Data Modeling (Conceptual, Logical, Physical)
 - 🗄️ Relational Databases (SQL Server, PostgreSQL, SQLite)
 - 🍃 NoSQL Databases (MongoDB)
 
@@ -21,6 +22,11 @@ Professional skill badges and micro-certifications:
 ---
 
 ## 🎯 Core Competencies
+
+**Data Modeling:**
+- Conceptual modeling (ER diagrams, entities, relationships)
+- Logical modeling and normalization
+- Physical model design and implementation
 
 **Relational Databases:**
 - Microsoft SQL Server (Administration, T-SQL, Performance)
@@ -37,4 +43,4 @@ Professional skill badges and micro-certifications:
 
 For more professional information and highlighted certifications, visit my [LinkedIn](https://www.linkedin.com/in/paulogriesang/).
 
-*Last update: December/2025*
+*Last update: January/2026*
