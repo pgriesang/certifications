@@ -8,7 +8,7 @@ Verified skill badges and micro-certifications from industry-recognized platform
 
 Professional badges demonstrate verified competency in specific technical skills through hands-on assessments and practical exercises. All badges listed here are publicly verifiable and recognized by employers worldwide.
 
-**Total Badges:** 2  
+**Total Badges:** 3  
 **Platforms:** MongoDB University (Credly)
 
 ---
@@ -18,12 +18,13 @@ Professional badges demonstrate verified competency in specific technical skills
 Professional badges focused on MongoDB database operations, performance, and monitoring.
 
 **Focus Areas:**
+- Core Architecture & Concepts
 - Database Performance Monitoring
 - Performance Optimization & Tuning
 - Query Analysis & Diagnostics
 
-**Badges Earned:** 2  
-**Issued:** November 2025  
+**Badges Earned:** 3  
+**Issued:** November 2025 - January 2026   
 **Platform:** MongoDB University via Credly
 
 [📋 View MongoDB badges details](./mongodb/)
@@ -31,28 +32,18 @@ Professional badges focused on MongoDB database operations, performance, and mon
 ---
 
 ## 🎯 Skills Covered
+### MongoDB
 
-### Performance & Monitoring
-- Real-time database monitoring
-- Performance metrics interpretation
-- Built-in monitoring tools (mongostat, mongotop)
-- Slow query analysis and profiling
-
-### Optimization & Tuning
-- Index optimization strategies
-- Query performance analysis
-- Resource utilization optimization
-- Performance bottleneck identification
+- Architecture and core concepts
+- Performance monitoring and optimization
+- Query tuning and analysis
+- Scalability and high availability
 
 ---
 
 ## 🔍 Badge Verification
 
-All badges are publicly verifiable through Credly platform. Each badge includes:
-- Unique badge ID
-- Issuing organization verification
-- Skills validation criteria
-- Issue date and expiration (if applicable)
+All badges are publicly verifiable through Credly with unique IDs, issuing organization verification, and validated skill criteria.
 
 ---
 
