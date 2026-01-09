@@ -9,8 +9,8 @@ Professional skill badges earned through MongoDB University, verified and issued
 
 These badges validate hands-on expertise in MongoDB database operations, specifically in performance monitoring and optimization. Each badge is earned through practical assessments that test real-world MongoDB skills.
 
-**Total MongoDB Badges:** 2  
-**Issue Date:** November 2025  
+**Total MongoDB Badges:** 3  
+**Issue Date:** November 2025 - January 2026  
 **Platform:** MongoDB University  
 **Verification:** Credly
 
@@ -21,6 +21,7 @@ These badges validate hands-on expertise in MongoDB database operations, specifi
 <div align="left">
   <img src="./mongodb-badges/monitoring-mongodb.png" alt="Monitoring MongoDB" width="150"/>
   <img src="./mongodb-badges/optimizing-mongodb-performance.png" alt="Optimizing Performance" width="150"/>
+  <img src="./mongodb-badges/mongodb-overview.png" alt="MongoDB Overview" width="150"/>
 </div>
 
 ---
@@ -80,6 +81,33 @@ Demonstrates expertise in optimizing MongoDB database performance through proper
 [🔗 Verify badge on Credly](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
 
 ---
+
+## 🏗️ MongoDB Overview: Core Concepts and Architecture
+
+**Issued:** January 9, 2026  
+**Badge ID:** 44450315-f465-43c3-ae04-83b0e53797cf  
+**Platform:** MongoDB University via Credly
+
+### Skills Validated:
+- ✅ Understanding MongoDB document model
+- ✅ Dynamic schema design for rapid development
+- ✅ Architectural comparison and schema design approaches
+- ✅ MongoDB data access patterns
+- ✅ Built-in scalability features (sharding)
+- ✅ High availability architecture (replica sets)
+- ✅ Distributed systems concepts
+- ✅ Operational simplicity and best practices
+
+### What This Badge Represents:
+Demonstrates comprehensive understanding of MongoDB's core architecture and design principles. This badge validates knowledge of the document model, schema design philosophy, and MongoDB's architectural strengths including scalability, high availability, and operational efficiency for modern applications.
+
+### Practical Applications:
+- Architectural decision-making for MongoDB deployments
+- Schema design for optimal performance
+- Understanding scalability patterns
+- Planning distributed database systems
+
+[🔗 Verify badge on Credly](https://www.credly.com/earner/earned/badge/44450315-f465-43c3-ae04-83b0e53797cf)
 
 ## 🎯 Combined Expertise
 
