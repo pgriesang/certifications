@@ -17,7 +17,7 @@ Detailed breakdown of individual courses and modules within each training progra
 
 ### [Badges](./badges/)
 Professional skill badges and micro-certifications:
-- 🏆 MongoDB Credly Badges (Performance & Monitoring)
+- 🏆 MongoDB Credly Badges (Performance, Monitoring & Architecture)
 
 ---
 
@@ -34,7 +34,7 @@ Professional skill badges and micro-certifications:
 - Advanced SQL (Joins, CTEs, Views, Transactions)
 
 **NoSQL Databases:**
-- MongoDB (Modeling, Queries, Performance, Security)
+- MongoDB (Architecture, Modeling, Queries, Performance, Security)
 - MongoDB monitoring and optimization
 
 ---
