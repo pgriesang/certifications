@@ -37,6 +37,11 @@ Professional skill badges and micro-certifications:
 - MongoDB (Architecture, Modeling, Queries, Performance, Security)
 - MongoDB monitoring and optimization
 
+**Data Engineering:**
+- Azure cloud data services (Data Factory, Data Lake, Blob Storage)
+- Data pipeline design and orchestration
+- ETL/ELT process implementation
+
 ---
 
 ## 📫 Contact
