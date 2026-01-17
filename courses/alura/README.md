@@ -4,6 +4,19 @@ Individual courses and modules within each training program.
 
 ---
 
+## Azure Data Engineering
+
+**Platform:** Alura  
+**Completed:** January/2026
+
+### Course:
+
+#### Azure Data Lake: creating a data ingestion pipeline
+**Duration:** 8 hours | **Period:** Jan 2026  
+**Topics:** Azure resource management, storage accounts creation, Azure Blob Storage operations, Azure Data Lake Storage Gen 2 implementation, hierarchical namespace configuration, data extraction and compression with Python, Blob Storage manipulation via Python SDK, Data Factory linked services and datasets, pipeline orchestration and automation, data ingestion workflows, Bronze/Silver/Gold layer architecture.
+
+---
+
 ## Data Modeling
 
 **Training Program Duration:** 29 hours  
