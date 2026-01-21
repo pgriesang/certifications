@@ -175,4 +175,15 @@ Individual courses and modules within each training program.
 
 ---
 
+### MongoDB - Additional Courses
+
+**Platform:** Alura
+
+### Course:
+
+#### MongoDB: data modeling
+**Duration:** 10 hours | **Period:**  Jan 18, 2026  
+**Topics:** NoSQL database structure modeling, data migration strategies, MongoDB Aggregation Framework, flexible schema design advantages, practical data modeling implementation, embedding vs referencing patterns, index creation and optimization, unique indexes, document relationships, nested documents and arrays.
+
+
 [← Back to Training Programs](../training-programs/) | [← Back to main](../)
