@@ -182,8 +182,13 @@ Individual courses and modules within each training program.
 ### Course:
 
 #### MongoDB: data modeling
-**Duration:** 10 hours | **Period:**  Jan 18, 2026  
-**Topics:** NoSQL database structure modeling, data migration strategies, MongoDB Aggregation Framework, flexible schema design advantages, practical data modeling implementation, embedding vs referencing patterns, index creation and optimization, unique indexes, document relationships, nested documents and arrays.
+**Duration:** 10 hours | **Period:** Jan 18, 2026  
+**Topics:** NoSQL data modeling, migration strategies, Aggregation Framework, embedding vs referencing, index optimization, document relationships.
+
+#### MongoDB: an alternative to traditional relational databases
+**Duration:** 6 hours | **Period:** Jan 18, 2026  
+**Topics:** MongoDB fundamentals, CRUD operations, query operators, geospatial queries, MongoDB vs SQL comparison, array operations.
+
 
 
 [← Back to Training Programs](../training-programs/) | [← Back to main](../)
