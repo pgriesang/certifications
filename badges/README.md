@@ -37,6 +37,7 @@ Professional badges focused on MongoDB database operations, performance, and mon
 - Architecture and core concepts
 - Performance monitoring and optimization
 - Query tuning and analysis
+- Query optimization techniques
 - Scalability and high availability
 
 ---
