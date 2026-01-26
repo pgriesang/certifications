@@ -2,6 +2,10 @@
 
 Professional badges earned through MongoDB University demonstrating hands-on expertise in MongoDB operations.
 
+**MongoDB Query Optimization Techniques** - January/2026  
+Skills: Query optimization, indexing strategies, execution plans, profiling tools  
+[🔗 Verify badge](https://www.credly.com/earner/earned/badge/23829644-10d7-4412-95ee-697dee0b6eb1)
+
 **MongoDB Overview: Core Concepts and Architecture** - January/2026  
 Skills: Document model, schema design, distributed architecture, scalability  
 [🔗 Verify badge](https://www.credly.com/earner/earned/badge/44450315-f465-43c3-ae04-83b0e53797cf)
@@ -13,10 +17,5 @@ Skills: Performance monitoring, metrics interpretation, diagnostic tools
 **Optimizing MongoDB Performance with Tuning Tools** - November/2025  
 Skills: Performance tuning, index optimization, query analysis  
 [🔗 Verify badge](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
-
-**Optimizing MongoDB Performance with Tuning Tools** - November/2025  
-Skills: Performance tuning, index optimization, query analysis  
-[🔗 Verify badge](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
-
 
 [📋 View detailed badge information](../badges/)
