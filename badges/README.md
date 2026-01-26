@@ -8,7 +8,6 @@ Verified skill badges and micro-certifications from industry-recognized platform
 
 Professional badges demonstrate verified competency in specific technical skills through hands-on assessments and practical exercises. All badges listed here are publicly verifiable and recognized by employers worldwide.
 
-**Total Badges:** 3  
 **Platforms:** MongoDB University (Credly)
 
 ---
