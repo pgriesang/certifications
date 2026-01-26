@@ -17,7 +17,7 @@ Detailed breakdown of individual courses and modules within each training progra
 
 ### [Badges](./badges/)
 Professional skill badges and micro-certifications:
-- 🏆 MongoDB Credly Badges (Performance, Monitoring & Architecture)
+- 🏆 MongoDB Credly Badges: Architecture, Performance, Monitoring & Query Optimization
 
 ---
 
