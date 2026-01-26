@@ -14,4 +14,9 @@ Skills: Performance monitoring, metrics interpretation, diagnostic tools
 Skills: Performance tuning, index optimization, query analysis  
 [🔗 Verify badge](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
 
+**Optimizing MongoDB Performance with Tuning Tools** - November/2025  
+Skills: Performance tuning, index optimization, query analysis  
+[🔗 Verify badge](https://www.credly.com/earner/earned/badge/d871d40a-1f51-45f7-bca2-6e9e8def62aa)
+
+
 [📋 View detailed badge information](../badges/)
