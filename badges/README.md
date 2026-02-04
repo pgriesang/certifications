@@ -22,7 +22,6 @@ Professional badges focused on MongoDB database operations, performance, and mon
 - Performance Optimization & Tuning
 - Query Analysis & Diagnostics
 
-**Badges Earned:** 3  
 **Issued:** November 2025 - January 2026   
 **Platform:** MongoDB University via Credly
 
