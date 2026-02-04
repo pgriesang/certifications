@@ -9,7 +9,6 @@ Professional skill badges earned through MongoDB University, verified and issued
 
 These badges validate hands-on expertise in MongoDB database operations, specifically in performance monitoring and optimization. Each badge is earned through practical assessments that test real-world MongoDB skills.
 
-**Total MongoDB Badges:** 4  
 **Issue Date:** November 2025 - January 2026  
 **Platform:** MongoDB University  
 **Verification:** Credly
